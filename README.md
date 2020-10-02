@@ -2,7 +2,7 @@
 
 #### Project Description
 
-To read the project description, read the 
+For the project description, read the "Final Project Write Up.pdf"
 
 #### Web App Access
 
